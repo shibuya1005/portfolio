@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
 .top {
-        background-image: url(../img/all-bong-JDN-_FIqB3k-unsplash.jpg);
+        background-image: url(<img src="/shibuya1005/portfolio/blob/main-branch/all-bong-JDN-_FIqB3k-unsplash.jpg?raw=true" alt="all-bong-JDN-_FIqB3k-unsplash.jpg">);
         background-size: cover;
 }
